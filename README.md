@@ -1,4 +1,4 @@
-INDIAN - Fivem Configurator / Dev
+Fivem Configurator / Dev
 
 Administrator ~ @discord.gg/qbcore
 
